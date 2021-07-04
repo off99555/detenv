@@ -1,0 +1,2 @@
+# detenv
+Determined.AI Environments
