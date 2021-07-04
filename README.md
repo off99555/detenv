@@ -1,6 +1,6 @@
 # detenv
 
-Determined.AI Environments
+Custom Determined.AI Environments
 
 1. Use `docker build` to build the docker image.
 2. Use `docker run` to test run the docker image.
