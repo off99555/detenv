@@ -7,4 +7,4 @@ wget http://prdownloads.sourceforge.net/ta-lib/ta-lib-0.4.0-src.tar.gz &&
     make install &&
     pip install TA-Lib
 
-pip install scikit-learn snoop mplfinance bayesian-optimization
+pip install scikit-learn snoop mplfinance bayesian-optimization plotly pyzmq
