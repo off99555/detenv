@@ -4,3 +4,5 @@ mplfinance
 bayesian-optimization
 plotly
 pyzmq
+beautifulsoup4
+ccxt
