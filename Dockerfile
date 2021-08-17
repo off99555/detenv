@@ -1,6 +1,6 @@
 # Determined Image
-FROM determinedai/environments:py-3.7-pytorch-1.9-lightning-1.3-tf-2.4-cpu-0.16.1
-# FROM determinedai/environments:cuda-11.2-pytorch-1.7-lightning-1.2-tf-2.5-gpu-0.16.1
+FROM determinedai/environments:py-3.7-pytorch-1.9-lightning-1.3-tf-2.4-cpu-0.16.3
+# FROM determinedai/environments:cuda-11.2-pytorch-1.7-lightning-1.2-tf-2.5-gpu-0.16.3
 
 # Custom Configuration
 # RUN apt-get update && \
